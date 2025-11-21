@@ -1,0 +1,5 @@
+﻿  Graphics.cpp
+C:\FS Projects\PG2\pg2 work\Labs\Week3\Lab3\Graphics\Graphics.cpp(113,13): warning C4834: discarding return value of function with [[nodiscard]] attribute
+  ShapeFactory.cpp
+  Generating Code...
+  Graphics.vcxproj -> C:\FS Projects\PG2\pg2 work\Labs\Week3\Lab3\x64\Debug\Graphics.exe
